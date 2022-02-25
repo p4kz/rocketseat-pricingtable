@@ -54,9 +54,6 @@
 }
 
 #offerOne .inf {
-    justify-content: center;
-    text-align: center;
-
     margin-top: 20px;
     margin-bottom: 20px;
     color: #828799;
@@ -84,4 +81,7 @@
     cursor: pointer;
 }
 
+.inf >span {
+    margin-right: 15px;
+}
 
