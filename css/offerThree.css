@@ -1,48 +1,22 @@
-#offerTwo {
+#offerThree {
     position: relative;
     top: 30%;
 
     width: 355px;
     height: 470px;
-    background-color: beige;
-    /* padding: 30px; */
+    background-color: rgb(83, 60, 60);
+    padding: 30px;
     border-radius: 10px;
 }
 
-#offerTwo .basic {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    padding: 30px;
-}
-
- .basic {
-     background-color: #FFCC29;
-     border-radius: 10px 10px 0px 0px;
-     height: 80px;
-
- }
-
-.basic p{
-    margin-left: 118px;
-    background-color: #1D539E;
-    border-radius: 15px;
-    color: #FFFFFF;
-    padding: 8px 24px 8px 24px
-}
-
-.font {
-    padding:0 30px 0 30px;
-}
-
-#offerTwo > h2 {
+#offerThree > h2 {
     margin-bottom: 20px;
     font-weight: 600;
     font-size: 18px;
     color: #000;
 }
 
-#offerTwo .priceTwo {
+#offerThree .priceThree {
     display: flex;
     flex-direction: row;
     align-items: baseline;
@@ -50,18 +24,18 @@
     height: 49px;
 }
 
-.priceTwo .price{
+.priceThree .price{
     font-size: 36px;
     font-weight: bold;
     margin-right: 5px;
 
 }
 
-.priceTwo h2 {
+.priceThree h2 {
     font-size: 36px;
 }
 
-.priceTwo p h2{
+.priceThree p h2{
     font-weight: bold;
     font-size: 36px;
 }
@@ -70,7 +44,7 @@
     color: #828799;
 }
 
-#offerTwo .text {
+#offerThree .text {
     margin-top: 20px;
     margin-bottom: 20px;
     color: #828799;
@@ -78,7 +52,7 @@
     font-size: 14px;
 }
 
-#offerTwo .inf {
+#offerThree .inf {
     margin-top: 20px;
     margin-bottom: 20px;
     color: #828799;
@@ -86,13 +60,13 @@
     font-size: 14px;
 }
 
-#offerTwo hr {
+#offerThree hr {
     color: #8287997a;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-#offerTwo button {
+#offerThree button {
     position: absolute;
     top: 390px;
 
@@ -100,11 +74,10 @@
     height: 50px;
 
     font-size: 18px;
-    color: #fff;
-    border: none;
+    color: #1D539E;
+    border: solid 2px #1D539E;
     border-radius: 10px;
-    cursor: pointer; 
-    background-color: #1D539E;
+    cursor: pointer;
 }
 
 .inf >span {
