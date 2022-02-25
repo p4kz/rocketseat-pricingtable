@@ -1,0 +1,87 @@
+#offerOne {
+    position: relative;
+    top: 30%;
+
+    width: 355px;
+    height: 470px;
+    background-color: rgb(83, 60, 60);
+    padding: 30px;
+    border-radius: 10px;
+}
+
+#offerOne > h2 {
+    margin-bottom: 20px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #000;
+}
+
+#offerOne .priceOne {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    width: 148px;
+    height: 49px;
+}
+
+.priceOne .price{
+    font-size: 36px;
+    font-weight: bold;
+    margin-right: 5px;
+
+}
+
+.priceOne h2 {
+    font-size: 36px;
+}
+
+.priceOne p h2{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.month {
+    color: #828799;
+}
+
+
+#offerOne .text {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #828799;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#offerOne .inf {
+    justify-content: center;
+    text-align: center;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #828799;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#offerOne hr {
+    color: #8287997a;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#offerOne button {
+    position: absolute;
+    top: 390px;
+
+    width: 300px;
+    height: 50px;
+
+    font-size: 18px;
+    color: #1D539E;
+    border: solid 2px #1D539E;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
