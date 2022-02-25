@@ -1,12 +1,11 @@
 #offerTwo {
     position: relative;
     top: 30%;
-
     width: 355px;
     height: 470px;
-    background-color: beige;
-    /* padding: 30px; */
+    background-color: #fff;
     border-radius: 10px;
+    margin-bottom: 30px;
 }
 
 #offerTwo .basic {
@@ -17,10 +16,15 @@
 }
 
  .basic {
-     background-color: #FFCC29;
-     border-radius: 10px 10px 0px 0px;
-     height: 80px;
+    background-color: #FFCC29;
+    border-radius: 10px 10px 0px 0px;
+    height: 80px;
+ }
 
+ .basic h2 {
+    font-weight: 600;
+    font-size: 20px;
+    color: #1D539E;
  }
 
 .basic p{
@@ -28,7 +32,7 @@
     background-color: #1D539E;
     border-radius: 15px;
     color: #FFFFFF;
-    padding: 8px 24px 8px 24px
+    padding: 8px 24px 8px 24px;
 }
 
 .font {
@@ -54,7 +58,6 @@
     font-size: 36px;
     font-weight: bold;
     margin-right: 5px;
-
 }
 
 .priceTwo h2 {
@@ -95,10 +98,8 @@
 #offerTwo button {
     position: absolute;
     top: 390px;
-
     width: 300px;
     height: 50px;
-
     font-size: 18px;
     color: #fff;
     border: none;

@@ -1,12 +1,12 @@
 #offerOne {
     position: relative;
     top: 30%;
-
     width: 355px;
     height: 470px;
-    background-color: rgb(83, 60, 60);
+    background-color: #fff;
     padding: 30px;
     border-radius: 10px;
+    margin-bottom: 30px;
 }
 
 #offerOne > h2 {
@@ -28,7 +28,6 @@
     font-size: 36px;
     font-weight: bold;
     margin-right: 5px;
-
 }
 
 .priceOne h2 {
@@ -69,15 +68,14 @@
 #offerOne button {
     position: absolute;
     top: 390px;
-
     width: 300px;
     height: 50px;
-
     font-size: 18px;
     color: #1D539E;
     border: solid 2px #1D539E;
     border-radius: 10px;
     cursor: pointer;
+    background-color: #fff;
 }
 
 .inf >span {
