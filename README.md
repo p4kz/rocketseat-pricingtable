@@ -2,7 +2,7 @@
 
 <p>Tentei fazer o mais minimalista possível.<br>
  <br>Deixei a página responsiva.<br>
- <br>Achei que seria um desafio fácil, mas tive dificuldades então aprendi bastante com ele.<br><br>
+ <br>Achei que seria um desafio fácil, mas tive dificuldades, então aprendi bastante com ele.<br><br>
   * Separei elementos para ficar facil a mudança de valores ou ate mesmo a manipulação de DOM.<br>
   * Fiz também o uso de um pseudo elemento como background. ( Deve ter formas melhores de fazer mas foi a solução que achei no momento. )<br>
  </p>
